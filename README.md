@@ -3,7 +3,7 @@
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  
-[![](https://raw.githubusercontent.com/minghsu0107/minghsu0107/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/minghsu0107/minghsu0107/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/minghsu0107/minghsu0107/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/minghsu0107/minghsu0107/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hao-ming-hsu-178176181/](https://www.linkedin.com/in/hao-ming-hsu-178176181/)
 
-- ⚡ Fun fact **I love donuts🍩**
+- ⚡ Fun fact **I love donuts 🍩**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
