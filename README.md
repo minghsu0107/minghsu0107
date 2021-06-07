@@ -8,7 +8,7 @@
 
 ---
 
-- 📝 I regularly write articles on [minghsu.io](minghsu.io)
+- 📝 I regularly write articles on [minghsu.io](https://minghsu.io)
 
 - 💬 Talk with me about **Golang, Kubenetes and DevOps**
 
