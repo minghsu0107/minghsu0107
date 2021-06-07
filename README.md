@@ -3,7 +3,8 @@
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minghsu0107&theme=vue">
+
+[![](https://raw.githubusercontent.com/minghsu0107/minghsu0107/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/minghsu0107/minghsu0107/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
 - 📝 I regularly write articles on [minghsu.io](minghsu.io)
 
