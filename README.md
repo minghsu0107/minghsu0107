@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hao-ming-hsu-178176181/](https://www.linkedin.com/in/hao-ming-hsu-178176181/)
 
-- ⚡ Fun fact **I like donuts.**
+- ⚡ Fun fact **I love donuts🍩**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
