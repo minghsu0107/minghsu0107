@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hao-Ming</h1>
-<h3 align="center">A passionate developer dedicated in backend development and site reliability engineering.</h3>
-
-- 🌱 I’m currently learning **Golang, AWS, GCP**
+<h4 align="center">A passionate developer dedicated in backend development and site reliability engineering.</h3>
 
 - 📝 I regularly write articles on [minghsu.io](minghsu.io)
 
-- 💬 Ask me about **Golang, Kubenetes, DevOps**
+- 💬 Talk with me about **Golang, Kubenetes and DevOps**
+
+- 🌱 I’m currently learning **AWS, GCP, and fun CNCF projects**
 
 - 📫 How to reach me **minghsu0107@gmail.com**
 
