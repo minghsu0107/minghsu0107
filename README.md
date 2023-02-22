@@ -1,7 +1,5 @@
 <h1 align="center">Hi There 👋</h1>
 
-- I regularly write articles on [minghsu.io](https://minghsu.io)
-
 - 💬 Talk with me about **Golang, distributed system, cloud-native projects, and DevOps**
 
 - 📫 How to reach me **minghsu0107@gmail.com**
