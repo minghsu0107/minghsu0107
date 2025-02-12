@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋</h1>
 
-- 💬 Talk with me about **C/C++, Golang, and distributed systems**
+- 💬 **Distributed system**, **AI Infra**, and **MLOps**.
 
 - 📫 How to reach me **minghsu0107@gmail.com**
 
